@@ -1,8 +1,8 @@
 # Rougelike
 
-Игра в жанре roguelike, которую мы сделали для изучения возможностей языка Java.
+Игра в жанре roguelike
 
-Ссылка на наш проект: https://gitlab.com/Kistin-git/roguelike.git
+Ссылка на наш проект: [https://github.com/SofyaLeontyeva/roguelike]
 
 ### Привет, друг!
 Мы, студенты совместной программы МФТИ и РАНХиГС, делаем учебный проект по основам проектирования ПО.
@@ -23,9 +23,9 @@
 
 ### О, а как выглядит?
 
-![screenshot 1](./screenshots/Screenshot%20from%202023-04-28%2023-31-14.png)
-![screenshot 2](./screenshots/Screenshot%20from%202023-04-28%2023-32-07.png)
-![screenshot 3](./screenshots/Screenshot%20from%202023-04-28%2023-32-49.png)
+![screenshot 1](./screenshots/1.png)
+![screenshot 2](./screenshots/2.png)
+![screenshot 3](./screenshots/3.png)
 
 
 
